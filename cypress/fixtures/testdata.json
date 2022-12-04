@@ -1,0 +1,8 @@
+
+{
+  "_comment": "created my own sample project with the id 41555738, below is the private token which is removed and checked in due to security reasons, please fill in your private token before executing the test",
+  "baseUrl": "https://gitlab.com/api/v4/projects/41555738",
+  "privateToken": <<please enter private token>>,
+  "filePath": "cypress/fixtures/testdata.json",
+  "issueID": 69
+}
